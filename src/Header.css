@@ -6,9 +6,9 @@
   border-bottom: 1px solid #f9f9f9;
 }
 
-/* .header_person {
-  height: 40px;
-} */
+.header_person {
+  padding: 20px;
+}
 
 .header_logo {
   object-fit: contain;
@@ -17,5 +17,5 @@
 
 .header_forum {
   margin-right: 10px;
-  /* height: 40px; */
+  padding: 20px;
 }
